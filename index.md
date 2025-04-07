@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Who Am I
+# WhoAmI
 * * *
 A passionate and results-driven software developer with experience designing and building scalable, high-performance web applications. Skilled in database management, Java programming, and web development, with a strong ability to collaborate across cross-functional teams to create sophisticated solutions. Beyond technical expertise, I am deeply motivated by understanding programming logic and human behavioral patterns. By leveraging AI and machine learning, I aim to bridge technology with human needs, crafting intelligent systems that drive meaningful change. Proficient in writing clean, efficient, and maintainable code, I thrive on problem-solving, attention to detail, and teamwork to deliver impactful innovations.
 
