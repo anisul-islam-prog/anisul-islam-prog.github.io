@@ -108,7 +108,7 @@ A passionate and results-driven software developer with experience designing and
 
 > ##### When something is important enough, you do it even if the odds are not in your favor.
 
-[See Projects](./another-page.html)
+[See Projects](./projects.html)
 
 
 
