@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 ### Previewing the theme locally
 
 If you'd like to preview the theme locally (for example, in the process of proposing a change):
@@ -19,11 +12,9 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
 
-
-## Theme Reference:
+-----------------------
+# Theme Reference:
 #### The Hacker theme
-
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
 
 *Hacker is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/hacker), or even [use it today](#usage).*
 
@@ -33,6 +24,8 @@ The theme contains a minimal test suite, to ensure a site with the theme would b
 - Summary:    "Hacker is a Jekyll theme for GitHub Pages"
 ## Theme philosophy:
 The Hacker theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+
+
 ## Usage
 
 To use the Hacker theme:

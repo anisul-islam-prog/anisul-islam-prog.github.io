@@ -45,6 +45,16 @@
           </svg>
         </a>
         {% endif %}
+        {% if site.leetcode %}
+        <a href="{{ site.leetcode.profile_url }}" class="btn btn-light" target="_blank" rel="noopener">
+          <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-leetcode"
+            viewBox="0 0 16 16">
+            <path
+              d="M8.5 0a8.5 8.5 0 1 0 0 17A8.5 8.5 0 0 0 8.5 0zM4.5 7h7v2h-7V7zm1-3h5v2H5.5V4zm0 6h5v2H5.5v-2zM4.5 10h7v2h-7v-2z" />
+          </svg>
+        </a>
+        {% endif %}
+  
       </section>
     </div>
   </header>

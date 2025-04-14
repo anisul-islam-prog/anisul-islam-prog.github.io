@@ -21,7 +21,7 @@ A passionate and results-driven software developer with experience designing and
 
 
 ## **_Divergent Technologies Ltd._** 
->### **Senior Software Engineer**  - **`January 2022- December 2022`**
+> ### **Senior Software Engineer**  - **`January 2022- December 2022`**
 * Managed a group of five developers, boosting team productivity by 40% and completing projects earlier than expected to boost client satisfaction by 25%.
 * Developed and executed new services for the promotional SMS distribution system, which increased SMS delivery success rates by 50%.
 * In order to notice server incidents 60% faster and manage them before they had a significant impact, new alerts were created using bash script for the purpose of monitoring application-servers. This allowed us to reduce downtime for important applications by 90%.
@@ -105,10 +105,12 @@ A passionate and results-driven software developer with experience designing and
 #### Skills Used: **`Leadership`,`Communication`,`Self-management`,`Time Management`,`Discipline`,`Teamwork`**
 
 
+<br>
+* * *
+### When something is important enough, you do it even if the odds are not in your favor.
+* * *
 
-> ##### When something is important enough, you do it even if the odds are not in your favor.
-
-[See Projects](./projects.html)
+### [See Projects](./projects.html)
 
 
 
